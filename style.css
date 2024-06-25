@@ -1,1 +1,10 @@
+/* this took a while since im new to css */
+#pizza-box {
+    width: 300px;
+    height: 200px;
+    border: 2px solid #333;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
 
